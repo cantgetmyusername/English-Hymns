@@ -12,7 +12,7 @@ Musicam Ecclesiae - sites.google.com/site/musicamecclesiae
 
 \header {
   poet = \markup{ \fontsize #4 \smallCaps "Hail to the Lord Who Comes"  }
-  meter = \markup { \small { Music: OLD 120TH, 66.66.66; \italic "Damon's Psalter" and \italic "Este's Psalter," adapted } }
+  meter = \markup { \small { Music: OLD 120TH, 66.66.66; \Anon., italic "The Whole Booke of Psalmes," Sternhold & Hopkins, 1549; adapted } }
   piece = \markup { \small {Text: John Ellerton, 1880 }}
   %breakbefore
   %copyright = ""
